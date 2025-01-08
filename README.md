@@ -34,7 +34,7 @@ GitHub Link (Add the link here if you have one!
  
 
 ## 🌐 Connect With Me  
-- [LinkedIn]((https://www.linkedin.com/in/almeerah-firdouse-271a41288/))  
+- [LinkedIn] ((https://www.linkedin.com/in/almeerah-firdouse-271a41288/))  
  
 - [Email](almeerah.firdouse1920@gmail.com)  
 
